@@ -223,7 +223,7 @@ const EventDetails = () => {
       for(let i=0;i<subs.length;i++) {
         if(subs[i].channel === fpChannel) {
           console.log("user is subscribed");
-          setIsUserSub(true);
+          setIsUserSub(false);
           return ;
         }
       }
@@ -254,7 +254,7 @@ const EventDetails = () => {
         },
         env: 'staging'
       })
-      setIsUserSub(true);
+      setIsUserSub(false);
       message.success("Subscribed to Event Notifications");
     } catch (e) {
       message.error("Some error occured while subscribing");

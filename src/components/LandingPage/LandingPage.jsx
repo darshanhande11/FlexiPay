@@ -8,7 +8,7 @@ const LandingPage = () => {
   return (
     <div className='lp-div'>
       <div className='lp-intro-div'>
-        <h1 className='lp-intro-heading'>A Simple<br/>Pay-per-view<br/>for DAO- Events</h1>
+        <h1 className='lp-intro-heading'>A Simple<br/>Pay-Per-View<br/>for DAO- Events</h1>
         <img src="/assets/images/man-laptop.png" alt="man-laptop.png" className='lp-intro-img' />
       </div>
       <div
