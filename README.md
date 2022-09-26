@@ -74,12 +74,14 @@ Both, the web application and bot share a common database. Discord Bot guards th
 - Vlad info page our friendly discord bot which will help us kicking out participants with no active stream of tokens
 <img src="images/pic-4-2.png" alt="" />
 - Invite vlad to your server
-<img src="images/pic-7.png" alt="" />
-- Section to manage streams or withdraw RSVP fees.
+<img width="1047" alt="image" src="https://user-images.githubusercontent.com/56120084/192184492-b564ede2-add8-45c6-a00a-1d0ec7659fc4.png">
+- Section to manage streams or withdraw RSVP fees or subscribe to events.
 <img src="images/pic-5.png" alt="" />
 - test stream between attendee and organizer wallet 
 <img src="images/pic-6.png" alt="" />
 - Usage of Vlad discord bot using command.
+<img width="1047" alt="image" src="https://user-images.githubusercontent.com/56120084/192184390-bea065b7-ac2b-44bd-8020-562027b40710.png">
+- EPNS notifications for events
 
 ## Team:
 
